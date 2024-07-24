@@ -3,6 +3,7 @@ import {
   backend,
   ux,
   prototyping,
+  machineLearning,
   javascript,
   typescript,
   html,
@@ -58,8 +59,8 @@ const services = [
     icon: ux,
   },
   {
-    title: 'Software Prototyping',
-    icon: prototyping,
+    title: 'Machine Learning',
+    icon: machineLearning,
   },
 ];
 

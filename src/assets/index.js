@@ -3,7 +3,9 @@ import nairobi from './backgrounds/nairobi.png';
 import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 
-import logo from './logo/logo-black.png';
+import logoColor from './logo/logo-color.png';
+import logoWhite from './logo/logo-white.png';
+import logoGray from './logo/logo-gray.png';
 import logotext from './logo/logo-text-black.png';
 
 import shaq from './personal/shaq.png';
@@ -12,6 +14,7 @@ import backend from './icons/backend.png';
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
 import prototyping from './icons/prototyping.png';
+import machineLearning from './icons/ai.png';
 import github from './icons/github.png';
 import close from './icons/close.png';
 import download from './icons/download.png';
@@ -55,13 +58,16 @@ export {
   nairobi,
   whiteabstract,
   worldmap,
-  logo,
+  logoColor,
+  logoWhite,
+  logoGray,
   logotext,
   shaq,
   backend,
   ux,
   frontend,
   prototyping,
+  machineLearning,
   github,
   close,
   download,

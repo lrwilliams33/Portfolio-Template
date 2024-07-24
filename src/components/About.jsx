@@ -37,12 +37,12 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis
-        sapiente ipsum dolorum dicta eaque cumque inventore molestias, beatae ea
-        quaerat alias accusamus voluptas autem! Alias odit voluptates in totam
-        vitae dignissimos minus eaque culpa unde tempore dolore aperiam
-        obcaecati voluptatum aliquam corrupti, suscipit accusamus! Odit unde
-        veniam dolorum ipsum doloribus.
+        Hello! I am a third-year Computer Science student at the University of Florida, currently enrolled in the Honors College. 
+        With a passion for innovative technology and a dedication to academic excellence, I have developed and contributed to several 
+        impactful projects, including a self-driving bus system for the city of Jacksonville, a research application platform for university
+        students, and a grocery expiration tracking app. My diverse experiences have equipped me with a strong foundation in software development,
+        problem-solving, and project management. I am eager to leverage my skills and knowledge to drive technological advancements and create 
+        meaningful solutions.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
