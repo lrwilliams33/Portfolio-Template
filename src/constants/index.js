@@ -2,32 +2,28 @@ import {
   frontend,
   backend,
   ux,
-  prototyping,
   machineLearning,
   javascript,
   typescript,
   html,
   css,
   reactjs,
-  redux,
-  tailwind,
+  c,
   nodejs,
   git,
-  figma,
-  docker,
-  postgresql,
-  rubyrails,
-  graphql,
   komikult,
   leaderboard,
   math,
   movie,
+  sql,
+  mongo,
   nyeusi,
   space,
   coverhunt,
   dcc,
   kelhel,
   microverse,
+  python,
 } from '../assets';
 
 export const navLinks = [
@@ -86,41 +82,30 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: 'Redux Toolkit',
-    icon: redux,
-  },
-  {
-    name: 'Tailwind CSS',
-    icon: tailwind,
-  },
-  {
     name: 'Node JS',
     icon: nodejs,
-  },
-  {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
-    name: 'graphql',
-    icon: graphql,
-  },
-  {
-    name: 'postgresql',
-    icon: postgresql,
   },
   {
     name: 'git',
     icon: git,
   },
   {
-    name: 'figma',
-    icon: figma,
+    name: 'Python',
+    icon: python,
   },
   {
-    name: 'docker',
-    icon: docker,
+    name: 'C',
+    icon: c,
   },
+  {
+    name: 'SQL',
+    icon: sql,
+  },
+  {
+    name: 'Mongo',
+    icon: mongo,
+  },
+  
 ];
 
 const experiences = [
