@@ -4,10 +4,7 @@ import whiteabstract from './backgrounds/white-abstract.png';
 import worldmap from './backgrounds/world-map.png';
 import codingBG from './backgrounds/coding-bg.png';
 
-import logoColor from './logo/logo-color.png';
-import logoWhite from './logo/logo-white.png';
-import logoGray from './logo/logo-gray.png';
-import logotext from './logo/logo-text-black.png';
+import logo from './logo/logo.png';
 
 import shaq from './personal/shaq.png';
 
@@ -39,17 +36,15 @@ import c from './tech/c.png';
 import sql from './tech/sql.png';
 import mongo from './tech/mongo.png';
 
-import coverhunt from './company/coverhunt.png';
-import dcc from './company/dcc.png';
-import kelhel from './company/kelhel.png';
-import microverse from './company/microverse.png';
+import ace from './company/ace.png';
+import clubfinity from './company/clubfinity.png'
+import miller from './company/miller.png'
 
-import komikult from './projects/komikult.png';
-import leaderboard from './projects/leaderboard.png';
-import math from './projects/math-magicians.png';
-import movie from './projects/movie-metro.png';
-import nyeusi from './projects/nyeusi.png';
-import space from './projects/space-hub.png';
+import research from './projects/research.png'
+import freshwatch from './projects/freshwatch.png'
+import chicago from './projects/chicago.png'
+import minesweeper from './projects/minesweeper.png'
+import photoshop from './projects/photoshop.png'
 
 export {
   bwmap,
@@ -57,21 +52,26 @@ export {
   nairobi,
   whiteabstract,
   worldmap,
-  logoColor,
-  logoWhite,
-  logoGray,
-  logotext,
+  logo,
   shaq,
   backend,
+  clubfinity,
   ux,
   sql,
+  miller,
+  research,
   mongo,
   frontend,
   prototyping,
   machineLearning,
   github,
+  ace,
+  freshwatch,
+  chicago,
   c,
   close,
+  minesweeper,
+  photoshop,
   download,
   downloadHover,
   pineapple,
@@ -88,14 +88,4 @@ export {
   nodejs,
   reactjs,
   typescript,
-  komikult,
-  leaderboard,
-  math,
-  movie,
-  nyeusi,
-  space,
-  coverhunt,
-  dcc,
-  kelhel,
-  microverse,
 };
